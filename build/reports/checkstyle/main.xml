@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="/homes/bl3323/SE_Design_Ex4_bl3323/src/main/java/ic/doc/camera/Camera.java">
+</file>
+<file name="/homes/bl3323/SE_Design_Ex4_bl3323/src/main/java/ic/doc/camera/MemoryCard.java">
+</file>
+<file name="/homes/bl3323/SE_Design_Ex4_bl3323/src/main/java/ic/doc/camera/Sensor.java">
+</file>
+<file name="/homes/bl3323/SE_Design_Ex4_bl3323/src/main/java/ic/doc/camera/WriteListener.java">
+</file>
+</checkstyle>
